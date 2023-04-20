@@ -8,7 +8,7 @@ Creating synthetic minority samples for highly im- balanced multivariate time se
 
 [Structure-Preserving Oversampling for Imbalanced Multivariate Time Series](/sample_page)
 
-<img src="images/mobility.png?raw=true" />
+<img src="images/oversampling_paper_comp_all.png?raw=true" />
 
 ---
 [News Headline Generation](/pdf/sample_presentation.pdf)
