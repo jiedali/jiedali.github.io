@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects 
 
-[Project 1 Title](/sample_page)
+[Structure-Preserving Oversampling for Imbalanced Multivariate Time Series](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[News Headline Generation](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Reinforcement Learning - Ms.Pacman with Deep Q-network](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
