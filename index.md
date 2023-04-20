@@ -4,7 +4,7 @@
 
 ### Structure-Preserving Oversampling for Imbalanced Multivariate Time Series
 
-Creating synthetic minority samples for highly im- balanced multivariate time series is a challenging task due to the fact that adjacent data points along temporal and feature dimensions can be highly cor- related. Traditional interpolation-based oversam- pling techniques such as Synthetic Minority Over- sampling does not preserve the underlying covari- ance structure of the time series data and thus can compromise classification performance. We propose a novel framework addressing the task of over-sampling highly imbalanced multivariate time series data with the goal of preserving the underlying covariance structure.
+Creating synthetic minority samples for highly im- balanced multivariate time series is a challenging task due to the fact that adjacent data points along temporal and feature dimensions can be highly correlated. Traditional interpolation-based oversampling techniques such as Synthetic Minority Over-sampling does not preserve the underlying covariance structure of the time series data and thus can compromise classification performance. We propose a novel framework addressing the task of over-sampling highly imbalanced multivariate time series data with the goal of preserving the underlying covariance structure.
 
 [Structure-Preserving Oversampling for Imbalanced Multivariate Time Series](/sample_page)
 
