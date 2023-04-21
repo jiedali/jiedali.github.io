@@ -30,12 +30,15 @@ View source code on Google Colab.
 
 
 
-[News Headline Generation](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
-[Reinforcement Learning - Ms.Pacman with Deep Q-network](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+### Reinforcement Learning - Ms.Pacman with Deep Q-network (DQN)
+
+In this project I wrote the code to realize the training of game Ms.Pacman using DQN and CNN network.
+
+
+
 
 ---
 
